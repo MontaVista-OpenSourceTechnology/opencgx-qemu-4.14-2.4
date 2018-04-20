@@ -34,6 +34,8 @@ LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-openembedded.git;b
 LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-openembedded.git;branch=rocko;layer=meta-webserver \
 LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-clang.git;branch=rocko \
 LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-virtualization.git;branch=rocko \
+LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-arm64-ilp32.git;branch=rocko \
+LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-montavista-cgx.git;branch=rocko;layer=qemu-bsp \
 LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-montavista-cgx.git;branch=rocko \
 LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-openembedded.git;branch=rocko;layer=meta-perl \
 LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-openembedded.git;branch=rocko;layer=meta-gnome \

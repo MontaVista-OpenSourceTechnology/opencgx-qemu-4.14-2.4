@@ -45,3 +45,7 @@
 	path = layers/meta-montavista-cgl
 	url = https://github.com/MontaVista-OpenSourceTechnology/meta-montavista-cgl
 	branch = rocko
+[submodule "layers/meta-arm64-ilp32"]
+	path = layers/meta-arm64-ilp32
+	url = https://github.com/MontaVista-OpenSourceTechnology/meta-arm64-ilp32.git
+	branch = rocko
